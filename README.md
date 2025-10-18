@@ -1,2 +1,0 @@
-# uczelnia
-podstawy
